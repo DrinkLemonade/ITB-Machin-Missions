@@ -1,0 +1,53 @@
+[[More Island Missions]]
+This mod adds four new, island-specific missions to Into the Breach:
+1) Archive -- Detonate the Warheads
+2) R.S.T. -- Radio Readings
+3) Pinnacle -- Train the Robots
+4) Detritus -- Fuel the Laser Array
+
+More detail on the missions below.
+
+1) Archive -- Detonate the Warheads
+Haven't we all wanted to destroy R.S.T.'s prototype bombs, either to get rid of Vek or just for fun? This simple mission should scratch your "blowing stuff up" itch.
+Navigating around those bulky warheads can be tricky, but the explosions can be used to your advantage. (Enemy spawns are also reduced, to account for the extra targets.)
+
+2) R.S.T. -- Radio Readings
+Keep a member of your squad in the designated area to provide the island's weather scientists with an improvised wi-fi hotspot. This must be done over three turns in total.
+The two radio towers can take more of a beating compared to other passive structures, but they must both remain standing to earn you that sweet sweet reputation star.
+
+3) Pinnacle -- Train the Robots
+Pinnacle's sentient weapons finally lend a helping hand in this mission. Teach them some proper Vekticide protocols so they can keep the island safe once you're gone.
+The robots don't actually need to survive, even if their deaths would make Zenith about 5.7% sadder. As long as you provide enough combat data, the reward is yours.
+
+4) Detritus -- Fuel the Laser Array
+It's like a train mission, except you control the train, it can help out a little, and... okay, maybe it's nothing like a train mission after all. Hopefully that's a good thing?
+Bring this little truck to its destination, unload its fuel shipment, and you'll immediately get a big bad laser turret to play with. Make it quick - you'll need the extra firepower.
+
+Additional info:
+The mod is compatible with ITB 1.2, the current version of the game.
+The mod *should* be compatible with most other mods. Let me know if there's anything it does not play nice with.
+The four missions can be disabled individually in the mod options.
+Each mission comes with four associated maps. More might be added in the future.
+
+Known issues:
+The graphics for the robots in "Pinnacle -- Train the Robots" have improper shading.
+
+---CREDITS---
+[[Author]]
+Machin
+
+[[Scripting]]
+Made possible with code, utilities and debugging advice by:
+kartoFlane
+tosx
+Lemonymous
+NamesAreHard
+ATLAS
+(Plus other folk at #modding-creation I might have missed!)
+
+[[Art]]
+Custom sprites based on Subset Games' existing art
+
+[[Special thanks]]
+Mondragon (for thorough testing and feedback)
+tosx (for testing, and whose Island Missions inspired this mod)

@@ -1,0 +1,45 @@
+Changelog:
+
+v0.1.2
+[[Detritus -- Fuel the Laser Array]] (hyperfuel.lua)
+-A.C.I.D. should no longer spawn atop the Laser Array or Hyperfuel Truck.
+
+v0.1.1
+[[RST -- Radio Readings]] (radio.lua)
+-Radio Beacons no longer show up in the list of player units, since they cannot act.
+
+[[Detritus -- Fuel the Laser Array]] (hyperfuel.lua)
+-Reduced Laser Array damage from 5 to 4.
+
+v0.1.0
+[[General]]
+-Added 3 new maps for each mission
+-Fixed missions units not triggering unique dialogue
+
+[[Archive -- Detonate the Warheads]] (detonate.lua)
+-Warheads: Now considered enemies for e.g. Electric Smoke
+-Warheads: Fixed graphics issue
+-Original map: Fewer guaranteed forests, fewer central obstacles
+-New maps: No guaranteed forests
+
+[[RST -- Radio Readings]] (radio.lua)
+-Fixed the 30 turns issue
+-Radio Beacons: Added an "off" sprite, an "idle" animation and a "destroyed" animation
+-Radio Beacons: Added unique dialogue when destroyed
+
+[[Pinnacle -- Train the Robots]] (botbuddies.lua)
+-Fixed the 30 kills issue
+-Robots: Sprites now face to the right and emit (hopefully) friendly-looking green light
+-Briefing: Now mentions that the robots technically do not need to survive.
+
+[[Detritus -- Fuel the Laser Array]] (hyperfuel.lua)
+-Fixed the ItW incompatibility
+-Missions now spawns 1 extra Vek per turn instead of 2
+
+[[Other]]
+-Fixed bot kill counter or radio turn counter being checked in unrelated missions
+-Removed the unreliable, hacky "guaranteed missions" option
+-Various dialogue fixes, improvements and additions
+
+v0.0.0
+-WIP released
